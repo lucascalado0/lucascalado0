@@ -1,4 +1,9 @@
-### Hi there 👋
+##Bem vindo ao meu github, me chamo Lucas Vinicius! 👋
+
+<div>
+  <a href="https://www.linkedin.com/in/lucascalado1/">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=lucascalado0&show_icons=true&theme=blue-green"
+</div>
 
 <!--
 **lucascalado0/lucascalado0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
