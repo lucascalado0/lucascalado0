@@ -2,7 +2,8 @@
 
 <div>
   <a href="https://www.linkedin.com/in/lucascalado1/">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=lucascalado0&show_icons=true&theme=blue-green"
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascalado0&show_icons=true&theme=blue-green">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascalado0&layout=compact&theme=blue-green">
 </div>
 
 <!--
